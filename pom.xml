@@ -31,7 +31,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>demopipeline2503_1</finalName>
+    <finalName>AzureDevOpsPipeline</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
